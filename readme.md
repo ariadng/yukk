@@ -1,1 +1,0 @@
-# Yukk Full-stack Test
